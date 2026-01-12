@@ -1,0 +1,7 @@
+{
+  "name": "fixture-react-bad",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+layers:
+  domain:
+    allowedImports: []
+  features:
+    allowedImports: [domain]
+  ui:
+    allowedImports: [features]
+
+rules:
+  noBusinessLogicInComponents: true
+  noDataFetchingInUI: true
+  enforceFeatureBoundaries: true
+  noCircularLayerDeps: true

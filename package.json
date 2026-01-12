@@ -1,0 +1,26 @@
+{
+  "name": "archguard",
+  "version": "1.0.0",
+  "description": "Prevent AI-assisted coding from degrading project architecture",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces"
+  },
+  "keywords": [
+    "architecture",
+    "linting",
+    "react",
+    "typescript",
+    "cursor"
+  ],
+  "author": "lindseystead",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lindseystead/archguard.git"
+  },
+  "license": "MIT"
+}

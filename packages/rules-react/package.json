@@ -1,0 +1,21 @@
+{
+  "name": "@archguard/rules-react",
+  "version": "1.0.0",
+  "description": "React-specific rules for archguard",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "@archguard/core": "*",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "baseUrl": ".",
+    "composite": true,
+    "paths": {
+      "@archguard/core": ["../core/src"],
+      "@archguard/rules-react": ["../rules-react/src"],
+      "@archguard/cursor": ["../cursor/src"]
+    }
+  },
+  "include": ["src/**/*"],
+  "references": [
+    { "path": "../core" },
+    { "path": "../rules-react" },
+    { "path": "../cursor" }
+  ]
+}

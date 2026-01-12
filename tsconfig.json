@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["ES2020"],
+    "declaration": true,
+    "outDir": "./dist",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@archguard/core": ["./packages/core/src"],
+      "@archguard/rules-react": ["./packages/rules-react/src"],
+      "@archguard/cursor": ["./packages/cursor/src"],
+      "@archguard/cli": ["./packages/cli/src"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
