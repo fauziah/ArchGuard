@@ -9,6 +9,8 @@
 [![npm downloads](https://img.shields.io/npm/dm/archguard)](https://www.npmjs.com/package/archguard)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lindseystead/archguard)](https://github.com/lindseystead/archguard)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.archguard)
+
+
 ArchGuard makes certain kinds of bad code impossible to commit, and makes AI explain itself instead of breaking your architecture.
 
 ## Why this exists
